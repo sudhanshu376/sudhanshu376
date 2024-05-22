@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhanshu
-- 👀 I’m interested in ... Data Science
+- 👀 I’m interested in ... blockchain
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sudhanshu.saduneni@gmail.com
